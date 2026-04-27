@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/04_4Pi_physical_extend.ipynb",
+  "docs": [
+    "docs/04_4Pi_glossary.md",
+    "docs/04_4Pi_notes.md",
+    "docs/04_4Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/04_4Pi_metadata.json",
+    "results/04_4Pi_claims.json",
+    "results/04_4Pi_claims.csv",
+    "results/04_4Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/04_4Pi_physical_extend.png",
+    "figures/04_4Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/04_4Pi_physical.tex"
+  ]
+}

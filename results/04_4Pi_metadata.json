@@ -1,0 +1,24 @@
+{
+  "notebook": "04_4Pi_physical_extend",
+  "pi_stage": "4Pi",
+  "triplet_position": "extend",
+  "track": "physical",
+  "core_rule": "Extend physical interaction through variable change.",
+  "template_role": "Generic Pi-stage notebook for variable-dependent physical interaction.",
+  "translation_boundary": "Do not lock 4Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "03_3Pi_physical_expand",
+  "next_stage": "05_5Pi_physical_resist",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "3Pi": "expand interaction",
+    "4Pi": "extend interaction",
+    "5Pi": "resist interaction"
+  }
+}

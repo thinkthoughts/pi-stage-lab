@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A valid physical interaction remains consistent under variable change.,0.96,VC/GOS,Interaction maintains structure across parameter variation.
+Changing variables can redefine the physical interaction arbitrarily.,0.33,IA/ZOS,Breaks consistency across parameter space.
+Physical systems can be probed by varying measurable parameters.,0.96,VC/GOS,Defines experimental method.
+A single observation is sufficient to define a physical system.,0.33,IA/ZOS,Ignores variable dependence.
