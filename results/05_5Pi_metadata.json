@@ -1,0 +1,25 @@
+{
+  "notebook": "05_5Pi_physical_resist",
+  "pi_stage": "5Pi",
+  "triplet_position": "resist",
+  "track": "physical",
+  "core_rule": "Preserve physical signal across constraint pressure.",
+  "template_role": "Generic Pi-stage notebook completing the physical triplet.",
+  "translation_boundary": "Do not lock 5Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "04_4Pi_physical_extend",
+  "next_stage": "06_6Pi_cycle_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "3Pi": "expand interaction",
+    "4Pi": "extend interaction",
+    "5Pi": "resist interaction"
+  },
+  "generic_constraint_gate": "cos(theta) >= 1/sqrt(1^2 + 1^2)"
+}

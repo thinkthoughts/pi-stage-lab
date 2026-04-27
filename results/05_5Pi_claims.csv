@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A valid physical signal remains stable across constraint pressure.,0.96,VC/GOS,Preserves measurable signal across physical constraint.
+Constraint pressure destroys physical signal by definition.,0.33,IA/ZOS,Confuses constraint with collapse.
+Signal stability can be evaluated by a constraint gate.,0.96,VC/GOS,Connects physical signal to measurable stability threshold.
+Unstable measurements can be treated as stable physical behavior.,0.33,IA/ZOS,Replaces constraint validation with interpretation.

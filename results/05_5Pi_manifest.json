@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/05_5Pi_physical_resist.ipynb",
+  "docs": [
+    "docs/05_5Pi_glossary.md",
+    "docs/05_5Pi_notes.md",
+    "docs/05_5Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/05_5Pi_metadata.json",
+    "results/05_5Pi_claims.json",
+    "results/05_5Pi_claims.csv",
+    "results/05_5Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/05_5Pi_physical_resist.png",
+    "figures/05_5Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/05_5Pi_physical.tex"
+  ]
+}
