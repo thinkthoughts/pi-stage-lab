@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A valid identity is preserved across constraint pressure.,0.96,VC/GOS,"Identity remains stable after definition, interaction, and constraint."
+Constraint pressure erases identity.,0.33,IA/ZOS,Confuses constraint with collapse.
+Preservation requires measurable continuity across interaction.,0.96,VC/GOS,"Connects definition, test, and preservation."
+A public interpretation can replace identity after constraint.,0.33,IA/ZOS,Replaces preserved structure with interpretation.

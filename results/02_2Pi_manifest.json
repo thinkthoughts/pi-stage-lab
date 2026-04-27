@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/02_2Pi_identity_resist.ipynb",
+  "docs": [
+    "docs/02_2Pi_glossary.md",
+    "docs/02_2Pi_notes.md",
+    "docs/02_2Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/02_2Pi_metadata.json",
+    "results/02_2Pi_claims.json",
+    "results/02_2Pi_claims.csv",
+    "results/02_2Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/02_2Pi_identity_resist.png",
+    "figures/02_2Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/02_2Pi_identity.tex"
+  ]
+}

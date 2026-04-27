@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid identity is preserved across constraint pressure.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Identity remains stable after definition, interaction, and constraint."
+  },
+  {
+    "claim": "Constraint pressure erases identity.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses constraint with collapse."
+  },
+  {
+    "claim": "Preservation requires measurable continuity across interaction.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects definition, test, and preservation."
+  },
+  {
+    "claim": "A public interpretation can replace identity after constraint.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces preserved structure with interpretation."
+  }
+]

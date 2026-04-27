@@ -1,0 +1,24 @@
+{
+  "notebook": "02_2Pi_identity_resist",
+  "pi_stage": "2Pi",
+  "triplet_position": "resist",
+  "track": "identity",
+  "core_rule": "Preserve identity across constraint pressure.",
+  "template_role": "Generic Pi-stage notebook schema completion for the first identity triplet.",
+  "translation_boundary": "Do not lock 2Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "01_1Pi_identity_extend",
+  "next_stage": "03_3Pi_physical_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "0Pi": "define",
+    "1Pi": "test",
+    "2Pi": "preserve"
+  }
+}
