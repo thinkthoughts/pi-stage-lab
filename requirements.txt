@@ -1,0 +1,17 @@
+# Core notebook environment
+
+jupyterlab>=4.0
+notebook>=7.0
+
+# Data handling
+
+numpy>=1.26
+pandas>=2.0
+
+# Plotting
+
+matplotlib>=3.8
+
+# Optional (nice to have for later)
+
+scipy>=1.11
