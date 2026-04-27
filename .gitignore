@@ -1,0 +1,95 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# virtual environments
+
+.env
+.venv
+venv/
+env/
+ENV/
+
+# packaging / build
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+
+# Jupyter
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# OS / editor
+
+# =========================
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+
+# Logs / temp
+
+# =========================
+
+*.log
+*.tmp
+*.cache
+
+# =========================
+
+# Generated outputs (pi-stage-lab)
+
+# =========================
+
+# machine outputs
+
+results/*
+!results/.keep
+
+# generated figures
+
+figures/*
+!figures/.keep
+
+# exports
+
+*.zip
+
+# =========================
+
+# Notes
+
+# =========================
+
+# Keep:
+
+# - notebooks/*.ipynb
+
+# - docs/*.md
+
+# - README.md
+
+#
+
+# Not tracked:
+
+# - results (regenerable)
+
+# - figures (regenerable)
