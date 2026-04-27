@@ -1,0 +1,29 @@
+{
+  "notebook": "07_7Pi_cycle_extend",
+  "pi_stage": "7Pi",
+  "triplet_position": "extend",
+  "track": "cycle",
+  "core_rule": "Extend cycle exchange across rates, reservoirs, and pathways.",
+  "template_role": "Generic Pi-stage notebook extending the cycle triplet.",
+  "translation_boundary": "Do not lock 7Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "06_6Pi_cycle_expand",
+  "next_stage": "08_8Pi_cycle_resist",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "6Pi": "expand cycle",
+    "7Pi": "extend cycle",
+    "8Pi": "resist cycle"
+  },
+  "cycle_variables": {
+    "r": "rate",
+    "R": "reservoir",
+    "P": "pathway"
+  }
+}

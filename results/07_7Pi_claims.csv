@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+"A valid cycle remains consistent across rates, reservoirs, and pathways.",0.96,VC/GOS,Extends repeatable exchange across cycle structure.
+Changing rates or reservoirs can redefine a cycle arbitrarily.,0.33,IA/ZOS,Breaks continuity of cycle exchange.
+Cycle extension requires measurable transfer among states.,0.96,VC/GOS,Grounds cycle behavior in observable exchange.
+A cycle can be explained without tracking pathways.,0.33,IA/ZOS,Removes measurable structure from cycle behavior.
