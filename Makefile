@@ -24,10 +24,8 @@ $(PIP) install -r requirements.txt
 lab:
 jupyter lab
 
-# Ensure directories exist
-
 dirs:
-	mkdir -p $(DOCS) $(RESULTS) $(FIGURES) $(MATH)
+mkdir -p $(DOCS) $(RESULTS) $(FIGURES) $(MATH)
 touch $(RESULTS)/.keep $(FIGURES)/.keep
 
 run: dirs
@@ -50,4 +48,4 @@ rm -rf $(RESULTS)/* $(FIGURES)/* *.zip
 touch $(RESULTS)/.keep $(FIGURES)/.keep
 
 export: dirs
-	zip -r pi-stage-lab_export.zip $(DOCS) $(RESULTS) $(FIGURES) $(MATH) README.md
+zip -r pi-stage-lab_export.zip $(DOCS) $(RESULTS) $(FIGURES) $(MATH) README.md
