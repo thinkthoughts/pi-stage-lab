@@ -1,0 +1,18 @@
+{
+  "notebook": "00_0Pi_identity_expand",
+  "pi_stage": "0Pi",
+  "triplet_position": "expand",
+  "track": "identity",
+  "core_rule": "Define measurable identity before interpretation.",
+  "template_role": "Generic Pi-stage notebook schema seed.",
+  "translation_boundary": "Do not lock 0Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "next_stage": "01_1Pi_identity_extend",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ]
+}

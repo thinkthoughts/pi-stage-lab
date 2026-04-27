@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A system identity should be defined by measurable structure before interpretation.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Preserves identity before domain translation."
+  },
+  {
+    "claim": "A thing means whatever public story is attached to it first.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Collapses identity into interpretation."
+  },
+  {
+    "claim": "A measurable variable can become a constraint signal when it links system states.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Defines identity by function inside constraints."
+  },
+  {
+    "claim": "A single slogan is enough to define a physical system.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces measurement with public-language collapse."
+  }
+]
