@@ -35,13 +35,13 @@ jupyter nbconvert --to notebook --execute --inplace $$nb;
 done
 
 run-one: dirs
-@nb=$$(ls $(NOTEBOOKS)/$(N)**.ipynb 2>/dev/null); 
-if [ -z "$$nb" ]; then 
-echo "No notebook found for prefix $(N)*"; 
-else 
-echo "Running $$nb"; 
-jupyter nbconvert --to notebook --execute --inplace $$nb; 
-fi
+	@nb=$$(ls $(NOTEBOOKS)/$(N)_*.ipynb 2>/dev/null); \
+	if [ -z "$$nb" ]; then \
+		echo "No notebook found for prefix $(N)_"; \
+	else \
+		echo "Running $$nb"; \
+		jupyter nbconvert --to notebook --execute --inplace $$nb; \
+	fi
 
 clean:
 rm -rf $(RESULTS)/* $(FIGURES)/* *.zip
