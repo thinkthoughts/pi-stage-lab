@@ -4,6 +4,12 @@
 
 A valid identity is a measurable structure before it is a slogan, metaphor, public claim, or interpretation.
 
+## Identity triplet
+
+- 0Pi: define measurable identity
+- 1Pi: test identity through interaction
+- 2Pi: preserve identity across constraint
+
 ## Template contract
 
 Every Pi-stage notebook should keep the same output pattern:

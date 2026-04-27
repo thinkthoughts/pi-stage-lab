@@ -4,6 +4,12 @@
 
 0Pi establishes identity before interpretation.
 
+## Identity triplet
+
+- 0Pi: define measurable identity
+- 1Pi: test identity through interaction
+- 2Pi: preserve identity across constraint
+
 ## Template use
 
 This notebook should be cloned for later Pi stages. Keep the same output pattern:

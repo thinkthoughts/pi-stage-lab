@@ -4,6 +4,8 @@
 
 **Core rule:** a valid identity is a measurable structure before it is a slogan, metaphor, public claim, or interpretation.
 
+**Identity triplet:** 0Pi define → 1Pi test → 2Pi preserve.
+
 **Template role:** this notebook seeds the Pi-stage output pattern:
 
 - `docs/` for bridge notes and glossary
