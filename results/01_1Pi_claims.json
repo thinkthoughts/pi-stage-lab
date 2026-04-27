@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid identity remains consistent under interaction.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Identity persists under transformation."
+  },
+  {
+    "claim": "Interaction can redefine identity completely without measurement.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Breaks identity continuity."
+  },
+  {
+    "claim": "Measurement observes identity without redefining identity itself.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Separates observation from identity."
+  },
+  {
+    "claim": "A perturbation is enough to replace a system identity with a public interpretation.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces measurable interaction with interpretation collapse."
+  }
+]
