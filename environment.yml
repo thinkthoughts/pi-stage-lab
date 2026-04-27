@@ -1,0 +1,34 @@
+name: pi-stage-lab
+
+channels:
+
+* conda-forge
+* defaults
+
+dependencies:
+
+# Python version
+
+* python=3.11
+
+# Core
+
+* jupyterlab>=4.0
+* notebook>=7.0
+
+# Data + math
+
+* numpy>=1.26
+* pandas>=2.0
+
+# Plotting
+
+* matplotlib>=3.8
+
+# Optional (safe to include now)
+
+* scipy>=1.11
+
+# Pip fallback (for anything not in conda later)
+
+* pip
