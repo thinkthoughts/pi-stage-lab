@@ -1,0 +1,29 @@
+{
+  "notebook": "09_9Pi_system_expand",
+  "pi_stage": "9Pi",
+  "triplet_position": "expand",
+  "track": "system",
+  "core_rule": "Expand stable cycle exchange into coordinated system structure.",
+  "template_role": "Generic Pi-stage notebook beginning the system triplet.",
+  "translation_boundary": "Do not lock 9Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "08_8Pi_cycle_resist",
+  "next_stage": "10_10Pi_system_extend",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "9Pi": "expand system",
+    "10Pi": "extend system",
+    "11Pi": "resist system"
+  },
+  "system_terms": {
+    "cycle": "stable repeatable exchange",
+    "coupling": "measurable connection between cycles",
+    "system": "coordinated structure of interacting cycles"
+  }
+}

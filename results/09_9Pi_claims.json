@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A stable cycle becomes a system when multiple constrained exchanges coordinate.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects cycle stability to coordinated system structure."
+  },
+  {
+    "claim": "A system can be defined by one isolated cycle alone.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses single cycle with coordinated system."
+  },
+  {
+    "claim": "System structure requires interacting cycles or coupled exchanges.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Grounds system behavior in coordination."
+  },
+  {
+    "claim": "Public interpretation is enough to define system behavior.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces coordinated structure with interpretation."
+  }
+]

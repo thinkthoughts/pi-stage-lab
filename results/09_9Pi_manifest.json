@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/09_9Pi_system_expand.ipynb",
+  "docs": [
+    "docs/09_9Pi_glossary.md",
+    "docs/09_9Pi_notes.md",
+    "docs/09_9Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/09_9Pi_metadata.json",
+    "results/09_9Pi_claims.json",
+    "results/09_9Pi_claims.csv",
+    "results/09_9Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/09_9Pi_system_expand.png",
+    "figures/09_9Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/09_9Pi_system.tex"
+  ]
+}
