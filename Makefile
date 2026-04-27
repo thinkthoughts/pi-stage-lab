@@ -7,6 +7,7 @@ NOTEBOOKS := notebooks
 DOCS := docs
 RESULTS := results
 FIGURES := figures
+MATH := math
 
 help:
 @echo "pi-stage-lab commands:"
@@ -26,7 +27,7 @@ jupyter lab
 # Ensure directories exist
 
 dirs:
-mkdir -p $(DOCS) $(RESULTS) $(FIGURES)
+	mkdir -p $(DOCS) $(RESULTS) $(FIGURES) $(MATH)
 touch $(RESULTS)/.keep $(FIGURES)/.keep
 
 run: dirs
@@ -49,4 +50,4 @@ rm -rf $(RESULTS)/* $(FIGURES)/* *.zip
 touch $(RESULTS)/.keep $(FIGURES)/.keep
 
 export: dirs
-zip -r pi-stage-lab_export.zip $(DOCS) $(RESULTS) $(FIGURES) README.md
+	zip -r pi-stage-lab_export.zip $(DOCS) $(RESULTS) $(FIGURES) $(MATH) README.md
