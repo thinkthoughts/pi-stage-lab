@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A stable physical signal becomes a cycle variable through repeatable exchange.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects signal stability to repeatable system exchange."
+  },
+  {
+    "claim": "A cycle can be defined from a single non-repeatable event.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses event with cycle."
+  },
+  {
+    "claim": "Cycle variables require measurable exchange between system states.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Grounds cycle behavior in measurable transfer."
+  },
+  {
+    "claim": "A public interpretation is enough to establish a cycle.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces repeatable exchange with interpretation."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/06_6Pi_cycle_expand.ipynb",
+  "docs": [
+    "docs/06_6Pi_glossary.md",
+    "docs/06_6Pi_notes.md",
+    "docs/06_6Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/06_6Pi_metadata.json",
+    "results/06_6Pi_claims.json",
+    "results/06_6Pi_claims.csv",
+    "results/06_6Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/06_6Pi_cycle_expand.png",
+    "figures/06_6Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/06_6Pi_cycle.tex"
+  ]
+}
