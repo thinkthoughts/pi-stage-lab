@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid cycle preserves exchange under constraint pressure.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Stabilizes repeatable exchange across stress or perturbation."
+  },
+  {
+    "claim": "Constraint pressure destroys cycle exchange by definition.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses constraint with cycle collapse."
+  },
+  {
+    "claim": "Cycle stability requires preserved pathways and bounded variation.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects cycle extension to constraint-resistance."
+  },
+  {
+    "claim": "A cycle remains valid even when pathways cannot be tracked.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes measurable exchange from cycle validity."
+  }
+]

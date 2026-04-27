@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/08_8Pi_cycle_resist.ipynb",
+  "docs": [
+    "docs/08_8Pi_glossary.md",
+    "docs/08_8Pi_notes.md",
+    "docs/08_8Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/08_8Pi_metadata.json",
+    "results/08_8Pi_claims.json",
+    "results/08_8Pi_claims.csv",
+    "results/08_8Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/08_8Pi_cycle_resist.png",
+    "figures/08_8Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/08_8Pi_cycle.tex"
+  ]
+}

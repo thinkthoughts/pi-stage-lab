@@ -1,0 +1,29 @@
+{
+  "notebook": "08_8Pi_cycle_resist",
+  "pi_stage": "8Pi",
+  "triplet_position": "resist",
+  "track": "cycle",
+  "core_rule": "Preserve cycle exchange under constraint pressure.",
+  "template_role": "Generic Pi-stage notebook completing the cycle triplet.",
+  "translation_boundary": "Do not lock 8Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "07_7Pi_cycle_extend",
+  "next_stage": "09_9Pi_system_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "6Pi": "expand cycle",
+    "7Pi": "extend cycle",
+    "8Pi": "resist cycle"
+  },
+  "cycle_stability_terms": {
+    "pathways": "preserved exchange routes",
+    "bounded_variation": "variation remains within tolerance",
+    "constraint": "pressure that tests cycle continuity"
+  }
+}
