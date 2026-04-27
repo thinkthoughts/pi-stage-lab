@@ -1,0 +1,24 @@
+{
+  "notebook": "03_3Pi_physical_expand",
+  "pi_stage": "3Pi",
+  "triplet_position": "expand",
+  "track": "physical",
+  "core_rule": "Expand preserved identity into measurable physical interaction.",
+  "template_role": "Generic Pi-stage notebook schema seed for the physical triplet.",
+  "translation_boundary": "Do not lock 3Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "02_2Pi_identity_resist",
+  "next_stage": "04_4Pi_physical_extend",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "3Pi": "expand interaction",
+    "4Pi": "extend interaction",
+    "5Pi": "resist interaction"
+  }
+}

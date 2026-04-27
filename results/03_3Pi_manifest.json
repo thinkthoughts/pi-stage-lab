@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/03_3Pi_physical_expand.ipynb",
+  "docs": [
+    "docs/03_3Pi_glossary.md",
+    "docs/03_3Pi_notes.md",
+    "docs/03_3Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/03_3Pi_metadata.json",
+    "results/03_3Pi_claims.json",
+    "results/03_3Pi_claims.csv",
+    "results/03_3Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/03_3Pi_physical_expand.png",
+    "figures/03_3Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/03_3Pi_physical.tex"
+  ]
+}

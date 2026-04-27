@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A preserved identity becomes physically meaningful through measurable interaction.,0.96,VC/GOS,Connects identity preservation to physical measurement.
+Physical meaning can be assigned without measurable interaction.,0.33,IA/ZOS,Skips the physical interaction requirement.
+"Physical interaction requires measurable variables such as energy, angle, rate, flux, or concentration.",0.96,VC/GOS,Grounds physical interaction in observables.
+A public interpretation is enough to establish physical behavior.,0.33,IA/ZOS,Replaces physical measurement with interpretation.
