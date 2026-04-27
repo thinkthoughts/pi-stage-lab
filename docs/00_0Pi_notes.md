@@ -10,6 +10,26 @@
 - 1Pi: test identity through interaction
 - 2Pi: preserve identity across constraint
 
+## Figures
+
+### Identity expansion
+![0Pi identity expand](../figures/00_0Pi_identity_expand.png)
+
+### CGCS gate (VC/GOS vs IA/ZOS)
+![0Pi CGCS gate](../figures/00_0Pi_vc_gos_vs_ia_zos.png)
+
+## Results
+
+### Metadata
+- results/00_0Pi_metadata.json
+
+### Claim scoring
+- results/00_0Pi_claims.json
+- results/00_0Pi_claims.csv
+
+### Manifest
+- results/00_0Pi_manifest.json
+
 ## Template use
 
 This notebook should be cloned for later Pi stages. Keep the same output pattern:
