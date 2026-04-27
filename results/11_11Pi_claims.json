@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid system preserves coordination under constraint pressure.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Stabilizes system structure across stress or perturbation."
+  },
+  {
+    "claim": "Constraint pressure destroys system coordination by definition.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses constraint with system collapse."
+  },
+  {
+    "claim": "System stability requires preserved coupling and bounded feedback.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects system extension to constraint-resistance."
+  },
+  {
+    "claim": "A system remains valid even when coupling and feedback cannot be tracked.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes measurable coordination from system validity."
+  }
+]

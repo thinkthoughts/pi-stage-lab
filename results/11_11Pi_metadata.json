@@ -1,0 +1,29 @@
+{
+  "notebook": "11_11Pi_system_resist",
+  "pi_stage": "11Pi",
+  "triplet_position": "resist",
+  "track": "system",
+  "core_rule": "Preserve system coordination under constraint pressure.",
+  "template_role": "Generic Pi-stage notebook completing the system triplet.",
+  "translation_boundary": "Do not lock 11Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "10_10Pi_system_extend",
+  "next_stage": "12_12Pi_rate_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "9Pi": "expand system",
+    "10Pi": "extend system",
+    "11Pi": "resist system"
+  },
+  "system_stability_terms": {
+    "preserved_coupling": "measurable connections remain intact",
+    "bounded_feedback": "feedback variation remains within tolerance",
+    "coordination": "system structure remains coherent under constraint"
+  }
+}
