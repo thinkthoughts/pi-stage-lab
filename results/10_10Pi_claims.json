@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid system remains coherent across scale, coupling strength, and feedback.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Extends coordinated system structure across measurable variation."
+  },
+  {
+    "claim": "Changing scale or coupling strength can redefine a system arbitrarily.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Breaks system coherence across variation."
+  },
+  {
+    "claim": "System extension requires tracked coupling and feedback.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Grounds system behavior in measurable relationships."
+  },
+  {
+    "claim": "A system can be explained without identifying feedback pathways.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes measurable coordination from system behavior."
+  }
+]
