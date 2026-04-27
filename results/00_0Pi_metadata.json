@@ -14,5 +14,10 @@
     "results",
     "figures",
     "math"
-  ]
+  ],
+  "triplet_map": {
+    "0Pi": "define",
+    "1Pi": "test",
+    "2Pi": "preserve"
+  }
 }
