@@ -1,0 +1,30 @@
+{
+  "notebook": "14_14Pi_rate_resist",
+  "pi_stage": "14Pi",
+  "triplet_position": "resist",
+  "track": "rate",
+  "core_rule": "Preserve rate meaning under constraint pressure.",
+  "template_role": "Generic Pi-stage notebook completing the rate triplet.",
+  "translation_boundary": "Do not lock 14Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "13_13Pi_rate_extend",
+  "next_stage": "15_15Pi_translation_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "12Pi": "expand rate",
+    "13Pi": "extend rate",
+    "14Pi": "resist rate"
+  },
+  "rate_stability_terms": {
+    "delta_n": "preserved interval",
+    "B": "preserved baseline",
+    "C": "preserved comparison",
+    "delta_rc": "bounded comparable-rate variation"
+  }
+}

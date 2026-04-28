@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A valid rate preserves meaning under constraint pressure.,0.96,VC/GOS,"Maintains interval, baseline, and comparison context under constraint."
+Constraint pressure makes rate comparisons meaningless by definition.,0.33,IA/ZOS,Confuses constraint with rate collapse.
+"Rate stability requires preserved interval, baseline, and bounded variation.",0.96,VC/GOS,Connects rate extension to constraint-resistance.
+A rate remains valid even when interval and baseline are lost.,0.33,IA/ZOS,Removes measurable context from rate validity.

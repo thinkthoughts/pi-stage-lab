@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/14_14Pi_rate_resist.ipynb",
+  "docs": [
+    "docs/14_14Pi_glossary.md",
+    "docs/14_14Pi_notes.md",
+    "docs/14_14Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/14_14Pi_metadata.json",
+    "results/14_14Pi_claims.json",
+    "results/14_14Pi_claims.csv",
+    "results/14_14Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/14_14Pi_rate_resist.png",
+    "figures/14_14Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/14_14Pi_rate.tex"
+  ]
+}
