@@ -1,0 +1,29 @@
+{
+  "notebook": "12_12Pi_rate_expand",
+  "pi_stage": "12Pi",
+  "triplet_position": "expand",
+  "track": "rate",
+  "core_rule": "Expand stable system behavior into measurable rates of change.",
+  "template_role": "Generic Pi-stage notebook beginning the rate triplet.",
+  "translation_boundary": "Do not lock 12Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "11_11Pi_system_resist",
+  "next_stage": "13_13Pi_rate_extend",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "12Pi": "expand rate",
+    "13Pi": "extend rate",
+    "14Pi": "resist rate"
+  },
+  "rate_terms": {
+    "delta_X": "measured change",
+    "delta_n": "measurement interval or counted step",
+    "r": "rate signal"
+  }
+}

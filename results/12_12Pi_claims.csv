@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A stable system becomes rate-aware when change is measured per interval.,0.96,VC/GOS,Connects system stability to measurable change.
+A rate can be defined without measuring change.,0.33,IA/ZOS,Removes the observable basis of rate.
+Rate requires both a measured quantity and an interval.,0.96,VC/GOS,Defines rate as structured measurement.
+Public urgency is enough to establish physical rate.,0.33,IA/ZOS,Replaces rate measurement with interpretation.

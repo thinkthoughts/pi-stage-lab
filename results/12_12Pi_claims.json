@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A stable system becomes rate-aware when change is measured per interval.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects system stability to measurable change."
+  },
+  {
+    "claim": "A rate can be defined without measuring change.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes the observable basis of rate."
+  },
+  {
+    "claim": "Rate requires both a measured quantity and an interval.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Defines rate as structured measurement."
+  },
+  {
+    "claim": "Public urgency is enough to establish physical rate.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Replaces rate measurement with interpretation."
+  }
+]
