@@ -1,0 +1,29 @@
+{
+  "notebook": "15_15Pi_translation_expand",
+  "pi_stage": "15Pi",
+  "triplet_position": "expand",
+  "track": "translation",
+  "core_rule": "Expand measurable rate structure into language while preserving meaning.",
+  "template_role": "Generic Pi-stage notebook beginning the translation triplet.",
+  "translation_boundary": "Do not lock 15Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "14_14Pi_rate_resist",
+  "next_stage": "16_16Pi_translation_extend",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "15Pi": "expand translation",
+    "16Pi": "extend translation",
+    "17Pi": "resist translation"
+  },
+  "translation_terms": {
+    "T": "mapping function",
+    "L": "language expression",
+    "structure": "preserved measurable context"
+  }
+}

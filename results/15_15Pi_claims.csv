@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+A valid translation preserves measurable rate structure in language.,0.96,VC/GOS,Maintains connection between measurement and expression.
+Language can represent rate without preserving measurement structure.,0.33,IA/ZOS,Breaks link between rate and expression.
+Translation requires mapping measured quantities to defined terms.,0.96,VC/GOS,Defines translation as structured mapping.
+Interpretation alone is sufficient for translation.,0.33,IA/ZOS,Replaces mapping with subjective language.

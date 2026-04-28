@@ -1,0 +1,21 @@
+{
+  "notebook": "notebooks/15_15Pi_translation_expand.ipynb",
+  "docs": [
+    "docs/15_15Pi_glossary.md",
+    "docs/15_15Pi_notes.md",
+    "docs/15_15Pi_readme_snippet.md"
+  ],
+  "results": [
+    "results/15_15Pi_metadata.json",
+    "results/15_15Pi_claims.json",
+    "results/15_15Pi_claims.csv",
+    "results/15_15Pi_manifest.json"
+  ],
+  "figures": [
+    "figures/15_15Pi_translation_expand.png",
+    "figures/15_15Pi_vc_gos_vs_ia_zos.png"
+  ],
+  "math": [
+    "math/15_15Pi_translation.tex"
+  ]
+}
