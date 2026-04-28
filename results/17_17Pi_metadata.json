@@ -1,0 +1,30 @@
+{
+  "notebook": "17_17Pi_translation_resist",
+  "pi_stage": "17Pi",
+  "triplet_position": "resist",
+  "track": "translation",
+  "core_rule": "Preserve measured meaning under interpretation pressure.",
+  "template_role": "Generic Pi-stage notebook completing the translation triplet.",
+  "translation_boundary": "Do not lock 17Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "16_16Pi_translation_extend",
+  "next_stage": "18_18Pi_synthesis_expand",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "15Pi": "expand translation",
+    "16Pi": "extend translation",
+    "17Pi": "resist translation"
+  },
+  "translation_resistance_terms": {
+    "mapping": "measured quantities remain recoverable",
+    "context": "translation context remains explicit",
+    "representation": "expression boundary remains preserved",
+    "pressure": "public-language interpretation pressure"
+  }
+}

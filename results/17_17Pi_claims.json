@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid public translation preserves measured meaning under interpretation pressure.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Maintains measurement structure through public-language pressure."
+  },
+  {
+    "claim": "Public interpretation can replace measured meaning when language is persuasive.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Confuses persuasive framing with measurement-preserving translation."
+  },
+  {
+    "claim": "Translation resistance requires preserved mapping, context, and representation boundaries.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Connects translation extension to public-language stability."
+  },
+  {
+    "claim": "A translation remains valid even when mapped quantities are no longer recoverable.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes measurable structure from translation validity."
+  }
+]
