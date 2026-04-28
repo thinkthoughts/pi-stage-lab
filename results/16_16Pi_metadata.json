@@ -1,0 +1,29 @@
+{
+  "notebook": "16_16Pi_translation_extend",
+  "pi_stage": "16Pi",
+  "triplet_position": "extend",
+  "track": "translation",
+  "core_rule": "Extend translation across contexts, audiences, and representations.",
+  "template_role": "Generic Pi-stage notebook extending the translation triplet.",
+  "translation_boundary": "Do not lock 16Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "15_15Pi_translation_expand",
+  "next_stage": "17_17Pi_translation_resist",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "15Pi": "expand translation",
+    "16Pi": "extend translation",
+    "17Pi": "resist translation"
+  },
+  "translation_context_terms": {
+    "K": "context",
+    "A": "audience",
+    "R": "representation"
+  }
+}

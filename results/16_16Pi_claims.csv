@@ -1,0 +1,5 @@
+claim,cgcs,classification,reason
+"A valid translation remains consistent across contexts, audiences, and representations.",0.96,VC/GOS,Preserves mapped meaning across expression contexts.
+Changing audience can redefine measured meaning arbitrarily.,0.33,IA/ZOS,Breaks translation consistency across context.
+Translation extension requires explicit context and representation boundaries.,0.96,VC/GOS,Grounds cross-context translation in defined constraints.
+A translation can stay valid even when mapping context is lost.,0.33,IA/ZOS,Removes the mapping context needed for valid translation.

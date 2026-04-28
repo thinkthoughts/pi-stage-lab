@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid translation remains consistent across contexts, audiences, and representations.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Preserves mapped meaning across expression contexts."
+  },
+  {
+    "claim": "Changing audience can redefine measured meaning arbitrarily.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Breaks translation consistency across context."
+  },
+  {
+    "claim": "Translation extension requires explicit context and representation boundaries.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Grounds cross-context translation in defined constraints."
+  },
+  {
+    "claim": "A translation can stay valid even when mapping context is lost.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes the mapping context needed for valid translation."
+  }
+]
