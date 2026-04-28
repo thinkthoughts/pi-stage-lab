@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "A valid rate remains meaningful across intervals, baselines, and comparisons.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Extends rate meaning across measurement context."
+  },
+  {
+    "claim": "Changing intervals can redefine a rate arbitrarily.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Breaks comparability across measurement spans."
+  },
+  {
+    "claim": "Rate comparison requires explicit baselines and intervals.",
+    "cgcs": 0.96,
+    "classification": "VC/GOS",
+    "reason": "Grounds rate comparison in measurable structure."
+  },
+  {
+    "claim": "A rate can be compared without stating its baseline.",
+    "cgcs": 0.33,
+    "classification": "IA/ZOS",
+    "reason": "Removes context required for comparison."
+  }
+]

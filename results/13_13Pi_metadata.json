@@ -1,0 +1,29 @@
+{
+  "notebook": "13_13Pi_rate_extend",
+  "pi_stage": "13Pi",
+  "triplet_position": "extend",
+  "track": "rate",
+  "core_rule": "Extend rate across intervals, baselines, and comparisons.",
+  "template_role": "Generic Pi-stage notebook extending the rate triplet.",
+  "translation_boundary": "Do not lock 13Pi to CO2, O2, photons, climate, chemistry, or any domain.",
+  "previous_stage": "12_12Pi_rate_expand",
+  "next_stage": "14_14Pi_rate_resist",
+  "cgcs_target": 0.96,
+  "template_version": "0.2",
+  "outputs": [
+    "docs",
+    "results",
+    "figures",
+    "math"
+  ],
+  "triplet_map": {
+    "12Pi": "expand rate",
+    "13Pi": "extend rate",
+    "14Pi": "resist rate"
+  },
+  "rate_context_terms": {
+    "delta_n": "interval",
+    "B": "baseline",
+    "C": "comparison"
+  }
+}
